@@ -21,4 +21,4 @@ Este proyecto es un template para una landing page, diseñado para ser utilizado
 1. Clona el repositorio:
 
    ```sh
-   git clone git@github.com:codegeekery/Template-Landing-1.git
+   git@github.com:codegeekery/Template-Landing-3.git
